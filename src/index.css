@@ -1,0 +1,35 @@
+.color-body {
+  min-height: 100vh;
+  background-color: #eee;
+}
+.font {
+  font-family: "Almarai", sans-serif;
+  font-family: "Cairo", sans-serif;
+  font-size: 20px;
+}
+.rectangle {
+  min-height: 600px;
+  border-radius: 15px;
+  background-color: #eee;
+  box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+}
+.dates-count {
+  color: #555;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.btn-style {
+  width: 200px;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #ea5050;
+  border: none;
+}
+.img-avatar {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+.mt-0 {
+  margin-top: 0;
+}
